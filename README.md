@@ -1,2 +1,2 @@
 # Unity
-Playing around with unity
+Learning the basics of 2D game design in Unity
