@@ -108,6 +108,7 @@ public class Player : MonoBehaviour {
     //function for handling player input
     private void HandleInput()
     {
+        //set jump to true if the player presses the spacebar
         if (Input.GetKeyDown(KeyCode.Space))
         {
             jump = true;
